@@ -1,0 +1,6 @@
+//Función C++ para sumar dos números
+int suma(int a, int b) {
+  int c;
+  c = a + b;
+  return c;
+}
